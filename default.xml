@@ -27,8 +27,8 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="device/htc/buzz" name="android_device_htc_buzz" remote="github" revision="ics"/>
-  <project path="device/ldpi-common" name="ldpi-common" remote="github" revision="ics"/>
+  <project path="device/htc/buzz" name="sympnotic/android_device_htc_buzz" remote="github" revision="ics"/>
+  <project path="device/ldpi-common" name="sympnotic/ldpi-common" remote="github" revision="ics"/>
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
