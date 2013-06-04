@@ -29,6 +29,8 @@
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/htc/buzz" name="sympnotic/android_device_htc_buzz" remote="github" revision="ics"/>
   <project path="vendor/htc/buzz" name="sympnotic/proprietary_vendor_htc_buzz" remote="github" revision="ics"/>
+  <project path="device/sony/montblanc-common" name="sympnotic/android_device_sony_montblanc-common" remote="github" revision="ics"/>
+  <project path="device/sony/kumquat" name="sympnotic/android_device_sony_kumquat" remote="github" revision="ics"/>
   <project path="device/ldpi-common" name="sympnotic/ldpi-common" remote="github" revision="ics"/>
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
